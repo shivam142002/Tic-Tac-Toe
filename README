@@ -1,1 +1,5 @@
-
+Developed an interactive and dynamic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
+Implemented a user-friendly interface that provides real-time updates on the game status.
+Incorporated features such as real-time winner announcement and options to reset or start a new game.
+Successfully handled edge cases, such as determining the game outcome when ‘O’ or ‘X’ has won.
+The project demonstrates strong proficiency in front-end development and logic implementation.
